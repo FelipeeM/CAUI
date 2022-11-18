@@ -1,5 +1,5 @@
-# CAUI
-# Cultivo de Alimentos Urbanos Inteligentes
+# Hacker Cidadão 9.0
+# CAUI - Cultivo de Alimentos Urbanos Inteligentes
 
 #Irrigação automatizada de acordo com a umidade da terra.
 Projeto criado com intuito de otimizar a produção de alimentos no meio urbano.
